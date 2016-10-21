@@ -13,4 +13,5 @@ This project initial aim is to migrate data from Radicale server 1.x to Radicale
 
 
 .. code:: bash
+
     migration.py <from_url> <to_url>
